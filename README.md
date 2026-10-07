@@ -11,3 +11,7 @@ It was pretty confusing for me and I had some problems, the main one is that som
 
 The display and the XIAO-ESP3 were the ones i had to download(as you see the diff.). I also had problems with the cable management since it doesn't look like the picture in the guide, IDK if it supposed to be the same or if it is fine so i would appreciate feedback.
 
+
+
+
+

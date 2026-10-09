@@ -10,16 +10,33 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.48h | 1 |
+| Week 1 | Tier 1 | 5h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – This was in the 10/6 and it was the first time of me doing anything to do with PCB so I was pretty confused while reading the Starbie guide(I also didn't know about the timelapses). I also  watched so](#2026-10-08-this-was-in-the-106-and-it-was-the-first-time-of-)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – This was in the 10/6 and it was the first time of me doing anything to do with PCB so I was pretty confused while reading the Starbie guide(I also didn't know about the timelapses). I also  watched so
 
-**1.48h**
+**5h**
 
-[Timelapse](https://lookout.hackclub.com/api/media/56f40b69-3c76-4cf9-9a45-11651750b1e1/video.mp4)
+This was in the 10/6 and it was the first time of me doing anything to do with PCB so I was pretty confused while reading the Starbie guide(I also didn't know about the timelapses). I also  watched some tutorials from youtube while Kicad downloaded(I have a pretty bad internet). When I did start it went well with the schematics even though it took me a lot more than it should have because I had to google up lots of things I didn't know how to do. The biggest problem in schmatics was assigning foorprints since some of them I couldn't see, I tried solving this for a while but at the end I just downloaded some foorprints from other sites. The PCB editor wasn't so bad but I did ra with some problems with the foreign footprints I downloaded, I think that cause the next problem which was the cable management/position. In the end I decided that it was fine despite some errors that I fixed in the future. At last I downloaded Arduino IDE and did the first part of the instructions, which took a while to do cause of my bad internet. It was 11pm at this pint so I just called it a day and modified the PCB editor one last time before logging off.
+
+Images time line is top to bottom
+
+1
+![Screenshot 2026-10-08 231057](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/55d2ecab18eb2e7bd9d365598e89eebc6768442c3e7d092547ceebb52a3a00a1.png)
+
+2
+![Screenshot 2026-10-08 195515](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/518643e63c08f58f971d93b0704fe1f5141a2157c19721f2eb37cdd4d345158a.png)
+
+3
+![Screenshot 2026-10-06 210024](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/eea9881abf2f2a9cf01da0d3aaa9edc78aae71dcacd0d5e0e7a0ebb8b8cde240.png)
+
+4
+![Screenshot 2026-10-08 231834](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/b1168ead8a7a2330b0ed667c42f65c2c263ab18a498df2c3760bb402a779b2ce.png)
+
+5
+![Screenshot 2026-10-08 232106](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/8423d61cf8272e663dfb0e1ed746cb15522c8538fbb8b1250f041d72e4545dbf.png)

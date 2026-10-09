@@ -19,7 +19,7 @@
 | [0.96 inch display](https://www.amazon.com/dp/B0GBWXTR1Z/ref=twister_B0GRSRQD1Y?_encoding=UTF8&th=1) | to display information | 1 | $5.99 | $5.99 | [amazon](https://www.amazon.com/dp/B0GBWXTR1Z/ref=twister_B0GRSRQD1Y?_encoding=UTF8&th=1) |
 | [MPU-6050 Module](https://www.amazon.com/Adkoat%C2%AE-Keyboard-Switches-Clickers-Prints/dp/B0H3F36JK7/ref=sr_1_14?crid=C34T5KP0S1KA&dib=eyJ2IjoiMSJ9.cYqqnaqRiSI5ibKwIIrwvwuuELGrGOBzqSFnawuZBU_HoeueLNjdJGb0wjV38UZah9d2wkdpcv5xpKbTEDhUxXY0erCDUcJ2zrUfZoFHKyuxBNzLtUR593vP5xT_BoUFE32E-jzH5N8DqHxrY8inQLS2B6PpQ8qDQwi4HybcMn-uXHPRSq2cCJGO_qI-3SMsyzYgciYFM8wwZ22rB_wtEOGJCbMOo8h3RHJ_dlf5OscB3MmxKIAw6zEIbfoaHMn-xSs11YVnYjVdA7tv3wjRLw24HOsMHGgPsCh2v_DCCxk.ESaid2g_gESkejJc-97SK57XMx0y4MXOHXYAHhZyF8o&dib_tag=se&keywords=Keyboard%2BSwitches%2C%2BKeyboard%2BClicker%2Bfor%2B3D%2BPrints&qid=1791507451&s=industrial&sprefix=keyboard%2Bswitches%2C%2Bkeyboard%2Bclicker%2Bfor%2B3d%2Bprints%2Cindustrial%2C208&sr=1-14&th=1) | gyro sensor | 1 | $4.79 | $4.79 | [amazon](https://www.amazon.com/Adkoat%C2%AE-Keyboard-Switches-Clickers-Prints/dp/B0H3F36JK7/ref=sr_1_14?crid=C34T5KP0S1KA&dib=eyJ2IjoiMSJ9.cYqqnaqRiSI5ibKwIIrwvwuuELGrGOBzqSFnawuZBU_HoeueLNjdJGb0wjV38UZah9d2wkdpcv5xpKbTEDhUxXY0erCDUcJ2zrUfZoFHKyuxBNzLtUR593vP5xT_BoUFE32E-jzH5N8DqHxrY8inQLS2B6PpQ8qDQwi4HybcMn-uXHPRSq2cCJGO_qI-3SMsyzYgciYFM8wwZ22rB_wtEOGJCbMOo8h3RHJ_dlf5OscB3MmxKIAw6zEIbfoaHMn-xSs11YVnYjVdA7tv3wjRLw24HOsMHGgPsCh2v_DCCxk.ESaid2g_gESkejJc-97SK57XMx0y4MXOHXYAHhZyF8o&dib_tag=se&keywords=Keyboard%2BSwitches%2C%2BKeyboard%2BClicker%2Bfor%2B3D%2BPrints&qid=1791507451&s=industrial&sprefix=keyboard%2Bswitches%2C%2Bkeyboard%2Bclicker%2Bfor%2B3d%2Bprints%2Cindustrial%2C208&sr=1-14&th=1) |
 | **Parts subtotal** | — | — | — | **$29.63** | — |
-| **Tax & shipping** | — | — | — | **$0.50** | — |
-| **Total** | — | — | — | **$30.13** | — |
+| **Tax & shipping** | — | — | — | **$0.36** | — |
+| **Total** | — | — | — | **$29.99** | — |
 
-**$0.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.01 left of the tier's funding.

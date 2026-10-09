@@ -16,10 +16,9 @@
 | [DHT11](https://jlcpcb.com/partdetail/Aosong_Guangzhou_Elec-DHT11/C117051) | temp & humidity sensor | 1 | $1.45 | $1.45 | [JLCPCB](https://jlcpcb.com/partdetail/Aosong_Guangzhou_Elec-DHT11/C117051) |
 | [MX1A-11NN](https://www.snapeda.com/parts/MX1A-11NN/Cherry/view-part/?ref=search&t=Button_Switch_Keyboard%3ASW_Cherry_MX_1.00u_PCB&ab_test_case=b) | button | 2 | $1.07 | $2.14 | [SnapMagic](https://www.snapeda.com/parts/MX1A-11NN/Cherry/view-part/?ref=search&t=Button_Switch_Keyboard%3ASW_Cherry_MX_1.00u_PCB&ab_test_case=b) |
 | [CFR-12JB-52-1R6](https://www.digikey.com/en/products/detail/yageo/CFR-12JB-52-1R6/4967) | resistor | 1 | $0.10 | $0.10 | [Digikey](https://www.digikey.com/en/products/detail/yageo/CFR-12JB-52-1R6/4967) |
-| [929450-01-08-I](https://www.digikey.com/en/products/detail/3m/929450-01-08-I/16534078) | 01x08 pin | 1 | $1.74 | $1.74 | [Digikey](https://www.digikey.com/en/products/detail/3m/929450-01-08-I/16534078) |
 | [0.956 inch display](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_3?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.bKGUeAFS99VbwsDkS2hre5fCQ_KR2cR0ZJRojQQb0rn4_0T06BFWpd2v7jx2iUymEyqv1FezfHEzqE_sTzU-TRDnUO__TA7JHDAKuct1_fNHqTSxQTEC_vLz4ISqypmNlyZghK0IvlIPitq2eVLesGydjIF_snjIOwKNOpRvr01fjLsUAZKHFPqdhHps-C0b3J8-_MKx2grNJ-7rYNy8H5ba-lnPViMgdGtMbFntIOY.GUdyM3i7YGy8mkhDeepAQQ8BU7E1wgw52_xAxBtsxo0&dib_tag=se&keywords=0.96%2Boled%2Bdisplay&plpRedirect=mhFallback&qid=1791502015&sr=8-3&th=1) | Display | 1 | $9.99 | $9.99 | [Amazon](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_3?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.bKGUeAFS99VbwsDkS2hre5fCQ_KR2cR0ZJRojQQb0rn4_0T06BFWpd2v7jx2iUymEyqv1FezfHEzqE_sTzU-TRDnUO__TA7JHDAKuct1_fNHqTSxQTEC_vLz4ISqypmNlyZghK0IvlIPitq2eVLesGydjIF_snjIOwKNOpRvr01fjLsUAZKHFPqdhHps-C0b3J8-_MKx2grNJ-7rYNy8H5ba-lnPViMgdGtMbFntIOY.GUdyM3i7YGy8mkhDeepAQQ8BU7E1wgw52_xAxBtsxo0&dib_tag=se&keywords=0.96%2Boled%2Bdisplay&plpRedirect=mhFallback&qid=1791502015&sr=8-3&th=1) |
-| **Parts subtotal** | — | — | — | **$20.32** | — |
+| **Parts subtotal** | — | — | — | **$18.58** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.32** | — |
+| **Total** | — | — | — | **$18.58** | — |
 
-$9.68 left of the tier's funding.
+$11.42 left of the tier's funding.

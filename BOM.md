@@ -19,7 +19,7 @@
 | [929450-01-08-I](https://www.digikey.com/en/products/detail/3m/929450-01-08-I/16534078) | 01x08 pin | 1 | $1.74 | $1.74 | [Digikey](https://www.digikey.com/en/products/detail/3m/929450-01-08-I/16534078) |
 | [0.956 inch display](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_3?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.bKGUeAFS99VbwsDkS2hre5fCQ_KR2cR0ZJRojQQb0rn4_0T06BFWpd2v7jx2iUymEyqv1FezfHEzqE_sTzU-TRDnUO__TA7JHDAKuct1_fNHqTSxQTEC_vLz4ISqypmNlyZghK0IvlIPitq2eVLesGydjIF_snjIOwKNOpRvr01fjLsUAZKHFPqdhHps-C0b3J8-_MKx2grNJ-7rYNy8H5ba-lnPViMgdGtMbFntIOY.GUdyM3i7YGy8mkhDeepAQQ8BU7E1wgw52_xAxBtsxo0&dib_tag=se&keywords=0.96%2Boled%2Bdisplay&plpRedirect=mhFallback&qid=1791502015&sr=8-3&th=1) | Display | 1 | $9.99 | $9.99 | [Amazon](https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_3?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.bKGUeAFS99VbwsDkS2hre5fCQ_KR2cR0ZJRojQQb0rn4_0T06BFWpd2v7jx2iUymEyqv1FezfHEzqE_sTzU-TRDnUO__TA7JHDAKuct1_fNHqTSxQTEC_vLz4ISqypmNlyZghK0IvlIPitq2eVLesGydjIF_snjIOwKNOpRvr01fjLsUAZKHFPqdhHps-C0b3J8-_MKx2grNJ-7rYNy8H5ba-lnPViMgdGtMbFntIOY.GUdyM3i7YGy8mkhDeepAQQ8BU7E1wgw52_xAxBtsxo0&dib_tag=se&keywords=0.96%2Boled%2Bdisplay&plpRedirect=mhFallback&qid=1791502015&sr=8-3&th=1) |
 | **Parts subtotal** | — | — | — | **$20.32** | — |
-| **Tax & shipping** | — | — | — | **$8.00** | — |
-| **Total** | — | — | — | **$28.32** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$30.32** | — |
 
-$1.68 left of the tier's funding.
+**$0.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.

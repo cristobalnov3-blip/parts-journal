@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.98h | 2 |
+| Week 1 | Tier 1 | 7.48h | 2 |
 
 ## Contents
 
@@ -51,7 +51,7 @@ Here is the image of the  final product.
 
 ### 2026-10-10 – At first I just did some research to see what simple beginner friendly things I could add to the PCB. It did take me a while. but I eventually gathered enough and put them on a basic google doc.
 
-**0.5h**
+**1h**
 
 At first I just did some research to see what simple beginner friendly things I could add to the PCB. It did take me a while. but I eventually gathered enough and put them on a basic google doc.
 

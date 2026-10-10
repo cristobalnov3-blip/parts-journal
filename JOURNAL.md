@@ -40,5 +40,10 @@ Images time line is top to bottom
 
 5
 ![Screenshot 2026-10-08 232106](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/8423d61cf8272e663dfb0e1ed746cb15522c8538fbb8b1250f041d72e4545dbf.png)
+--------------------------
+The timelapse was taken on 10/9 and I decided to redo the starbie and actually do it on video. I really liked the end result since I was able to do it quicker and finally solved the cable management problem I had.
+Here is the image of the  final product.
+
+![Screenshot 2026-10-08 225601](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/031b23c465f46baf83d087c919567fc2a67f82d65469865293a87198898aa7ce.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/56f40b69-3c76-4cf9-9a45-11651750b1e1/video.mp4)

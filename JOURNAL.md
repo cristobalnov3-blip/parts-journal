@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5h | 1 |
+| Week 1 | Tier 1 | 6.48h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-08 – This was in the 10/6 and it was the first time of me doing anything to do with PCB so I was pretty confused while reading the Starbie guide(I also didn't know about the timelapses). I also  watched so
 
-**5h**
+**6.48h**
 
 This was in the 10/6 and it was the first time of me doing anything to do with PCB so I was pretty confused while reading the Starbie guide(I also didn't know about the timelapses). I also  watched some tutorials from youtube while Kicad downloaded(I have a pretty bad internet). When I did start it went well with the schematics even though it took me a lot more than it should have because I had to google up lots of things I didn't know how to do. The biggest problem in schmatics was assigning foorprints since some of them I couldn't see, I tried solving this for a while but at the end I just downloaded some foorprints from other sites. The PCB editor wasn't so bad but I did ra with some problems with the foreign footprints I downloaded, I think that cause the next problem which was the cable management/position. In the end I decided that it was fine despite some errors that I fixed in the future. At last I downloaded Arduino IDE and did the first part of the instructions, which took a while to do cause of my bad internet. It was 11pm at this pint so I just called it a day and modified the PCB editor one last time before logging off.
 
@@ -40,3 +40,5 @@ Images time line is top to bottom
 
 5
 ![Screenshot 2026-10-08 232106](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/YxeITDl7iwgoT6DLD2VxfBSVHgDaGVtR/8423d61cf8272e663dfb0e1ed746cb15522c8538fbb8b1250f041d72e4545dbf.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/56f40b69-3c76-4cf9-9a45-11651750b1e1/video.mp4)

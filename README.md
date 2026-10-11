@@ -52,4 +52,35 @@ I also see an improvement in both my cable management, and the overall position 
 Logging off at 12am. Goodnight
 
 
+------
+**WORKING ON CODE**
+Long story short, I had written a WHOLE another day of working. But then suddently my keyboard just decided to have a seisure, never have I seen something like that happen. One moment I was coding and fixing a problem, and then the other NONE of my keyboard worked, the letter "W" closed my tabs, another one open file explorer, another open search history. I have NO IDEA what happen and I was left with my empty desktop since it wipedout my WHOLE tabs. I had to fully reset my computer to have control of my keyboard again. 
+
+So if this entry feels a bit wierd/rushed, is because I'm angry that it whiped out my whole entry for the day. Thank you for the patience.
+
+10/10 started 6:24ish
+
+I decided to work/learn on the code in Arduino IDE. First hour I was trying to figure out how to download hackatime in IDE, didn't work
+
+<img width="1657" height="567" alt="Screenshot 2026-10-10 221450" src="https://github.com/user-attachments/assets/5de1ba56-67ec-4c14-ab21-751fd359d9be" />
+This files didn't appear in the pluggin of arduino, I don't know why so I gave up after trying for a long time.
+
+7:43ish
+Started to research some videos that could teach me how to understand the code given to me. I used AI to explain it to me which did work very well. I also had to modify the GPIO#s of my components since they didn't match up.
+
+<img width="1577" height="659" alt="gpt code menu actions" src="https://github.com/user-attachments/assets/9974f677-329b-4cf3-8195-1e9b3e1b9864" />
+<img width="635" height="198" alt="Screenshot 2026-10-10 205541" src="https://github.com/user-attachments/assets/e918a568-f6eb-478a-a69a-95f3cfafa132" />
+
+From 8:45-11:49ish
+
+Worked on integrating some code to practice. Supposed to be that the pet would have different expressions depending on it stats(I did NOT used AI to write code, only to ask for advice/help). Last hour 1.5 was me trying to fix a bug in the website I was usign to test my code "WOKWI" which said that it didn't see the mpu6050 model. Then I was interrupted by my keyboard seizure and don't want to continue. 
+
+<img width="565" height="178" alt="Screenshot 2026-10-10 231924" src="https://github.com/user-attachments/assets/c1c0b90d-94f6-471e-9213-041f59393953" />
+
+Thank you, have a goodnight!
+
+
+
+
+
 

@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 Xiao ESP32 C3,1,Seeed Studio,$4.99,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 0.96 Inch OLED Display,1,Ebay,$4.76,$4.76,https://www.ebay.com/itm/800587691455?var=657520301390
 DHT11,1,Ebay,$0.99,$0.99,https://www.ebay.com/itm/158232161042
+PCB,1,JLCPCB,$5.20,$5.20,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
 Estimated total shipping,1,,,$0.00,

@@ -24,3 +24,9 @@ A simple, custom PCB with an octagonal shape, logo of Half Life, and my Innitial
 
 <img width="490" height="482" alt="Screenshot 2026-10-21 172713" src="https://github.com/user-attachments/assets/bf11313b-6d73-4d14-9d3c-804f38e38623" />
 
+-------
+### **Controls**
+
+- Button 1: Menu/select
+- Button 2: Stats of pet
+- Tilt PCB: MOve menu selector

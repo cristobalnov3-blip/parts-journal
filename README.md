@@ -10,12 +10,12 @@ This is a Starbie, a small motion controlled robot pet like a Tamogotchi. It use
 
 ### **FEATURES**
 
-XIAO ESP32 C3 for the microconcroller 
-A 0.96" OLED display
-An MPU6050 for dececting movement
-MX switches(already own them)
-10K resistors.
-Custom PCB
+- XIAO ESP32 C3 for the microconcroller 
+- A 0.96" OLED display
+- An MPU6050 for dececting movement
+- MX switches(already own them)
+- 10K resistors.
+- Custom PCB
 
 -----
 ### **CAD MODEL**

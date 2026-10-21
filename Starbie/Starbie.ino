@@ -8,7 +8,7 @@
     - Adafruit GFX Library
     - Adafruit SSD1306
     - Adafruit MPU6050
-    - DHT sensor library
+    - DHT sensor 
   Arduino IDE will offer to install their dependencies too. Click Install All.
 */
 
@@ -25,11 +25,11 @@
 
 // --- Your board's pins ----------------------------------------------------
 // These are ESP32-C3 GPIO numbers, with the XIAO pin labels beside them.
-const int I2C_SDA_PIN = 6;       // XIAO D4: OLED + MPU6050 SDA
-const int I2C_SCL_PIN = 7;       // XIAO D5: OLED + MPU6050 SCL
-const int DHT_PIN = 3;           // XIAO D1: DHT11 data
-const int BUTTON_ONE_PIN = 4;    // XIAO D2: opens/confirms the radial menu
-const int BUTTON_TWO_PIN = 5;    // XIAO D3: shows/hides stats
+const int I2C_SDA_PIN = 5;       // XIAO D4: OLED + MPU6050 SDA
+const int I2C_SCL_PIN = 4;       // XIAO D5: OLED + MPU6050 SCL
+const int DHT_PIN = 1;           // XIAO D1: DHT11 data
+const int BUTTON_ONE_PIN = 2;    // XIAO D2: opens/confirms the radial menu
+const int BUTTON_TWO_PIN = 3;    // XIAO D3: shows/hides stats
 
 // Set this to false if your submission does not have a DHT11.
 const bool USE_DHT11 = true;
@@ -53,7 +53,7 @@ const bool RESET_SAVED_PET_ON_BOOT = false;
 // These four actions appear at TOP, RIGHT, BOTTOM, then LEFT in the menu.
 // The last word controls the matching little visual reaction.
 enum PetReaction {
-  NAP_REACTION,
+  NAP_REACTION, 
   JUMP_REACTION,
   HEART_REACTION,
   RUN_REACTION,
@@ -446,6 +446,18 @@ void handleButtons() {
   }
 }
 
+void drawSparkle(int x, int y) {
+  display.drawPixel(x, y - 2, SSD1306_WHITE);
+  display.drawPixel(x - 1, y - 1, SSD1306_WHITE);
+  display.drawPixel(x + 1, y - 1, SSD1306_WHITE);
+  display.drawPixel(x - 2, y, SSD1306_WHITE);
+  display.drawPixel(x, y, SSD1306_WHITE);
+  display.drawPixel(x + 2, y, SSD1306_WHITE);
+  display.drawPixel(x - 1, y + 1, SSD1306_WHITE);
+  display.drawPixel(x + 1, y + 1, SSD1306_WHITE);
+  display.drawPixel(x, y + 2, SSD1306_WHITE);
+}
+
 void drawHeart(int x, int y) {
   // A tiny seven-pixel-wide heart that stays crisp on the OLED.
   display.fillRect(x - 2, y, 2, 2, SSD1306_WHITE);
@@ -479,6 +491,77 @@ void drawSleepZs(uint32_t now, int petX, int petY) {
   display.print("z");
 }
 
+void drawPetExpression(int petX, int petY) {
+
+
+
+  if (pet.energy < 25) {
+    // closed eyes
+    display.drawLine(petX + 13, petY + 14,
+                     petX + 15, petY + 14, SSD1306_WHITE);
+    display.drawLine(petX + 19, petY + 14,
+                     petX + 21, petY + 14, SSD1306_WHITE);
+
+    //sleepy mouth.
+    display.drawPixel(petX + 17, petY + 16, SSD1306_WHITE);
+    return;
+  }
+
+  // extra-happy expression
+  if (pet.joy >= 85 && pet.energy >= 70) {
+    // sparkling eyss
+    display.drawPixel(petX + 14, petY + 13, SSD1306_WHITE);
+    display.drawPixel(petX + 14, petY + 15, SSD1306_WHITE);
+    display.drawPixel(petX + 13, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 15, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 20, petY + 13, SSD1306_WHITE);
+    display.drawPixel(petX + 20, petY + 15, SSD1306_WHITE);
+    display.drawPixel(petX + 19, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 21, petY + 14, SSD1306_WHITE);
+
+    // big smile
+    display.drawLine(petX + 16, petY + 16,
+                     petX + 18, petY + 17, SSD1306_WHITE);
+    display.drawPixel(petX + 19, petY + 16, SSD1306_WHITE);
+    return;
+  }
+
+  // happy expression
+  if (pet.joy >= 70) {
+    // bright eyes
+    display.drawPixel(petX + 14, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 20, petY + 14, SSD1306_WHITE);
+
+    // smiling mouth
+    display.drawPixel(petX + 16, petY + 16, SSD1306_WHITE);
+    display.drawPixel(petX + 17, petY + 17, SSD1306_WHITE);
+    display.drawPixel(petX + 18, petY + 17, SSD1306_WHITE);
+    display.drawPixel(petX + 19, petY + 16, SSD1306_WHITE);
+  }
+  // neutral expression
+  else if (pet.joy >= 30) {
+    // simple eyes.
+    display.drawPixel(petX + 14, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 20, petY + 14, SSD1306_WHITE);
+
+    // straight mouth
+    display.drawLine(petX + 16, petY + 16,
+                     petX + 19, petY + 16, SSD1306_WHITE);
+  }
+  // sad expression when joy is low
+  else {
+    // Eyes
+    display.drawPixel(petX + 14, petY + 14, SSD1306_WHITE);
+    display.drawPixel(petX + 20, petY + 14, SSD1306_WHITE);
+
+    // sad mouth
+    display.drawPixel(petX + 16, petY + 17, SSD1306_WHITE);
+    display.drawPixel(petX + 17, petY + 16, SSD1306_WHITE);
+    display.drawPixel(petX + 18, petY + 16, SSD1306_WHITE);
+    display.drawPixel(petX + 19, petY + 17, SSD1306_WHITE);
+  }
+}
+
 void drawPet() {
   display.clearDisplay();
 
@@ -509,9 +592,14 @@ void drawPet() {
   }
 
   petX = constrain(petX, 0, SCREEN_WIDTH - PET_SPRITE_WIDTH);
-  display.drawBitmap(petX, petY, PET_SPRITE, PET_SPRITE_WIDTH, PET_SPRITE_HEIGHT,
-                     SSD1306_WHITE);
+  display.drawBitmap(petX, petY, PET_SPRITE, PET_SPRITE_WIDTH, PET_SPRITE_HEIGHT, SSD1306_WHITE);
+  //draw the face based on stats
+                     
+  drawPetExpression(petX, petY);
 
+if (!isNapping() && (now / 250) % 2 == 0) {
+  drawSparkle(petX - 4, petY + 18);
+}
   if (isNapping()) {
     drawSleepZs(now, petX, petY);
   }
@@ -603,31 +691,53 @@ void drawCurrentView() {
 
 void setup() {
   Serial.begin(115200);
-  Wire.begin(I2C_SDA_PIN, I2C_SCL_PIN);
+  delay(1000);
+  Serial.println("STEP 1: Serial started");
+
+  Wire.begin(D4, D5);
+  Wire.setClock(100000);
+  Serial.println("STEP 2: I2C started");
+
   setUpButton(buttonOne);
   setUpButton(buttonTwo);
+  Serial.println("STEP 3: Buttons configured");
+
   loadPet();
+  Serial.println("STEP 4: Pet data loaded");
 
   if (!display.begin(SSD1306_SWITCHCAPVCC, OLED_ADDRESS)) {
-    Serial.println("OLED not found. Check power, GND, SDA, SCL, and address.");
+    Serial.println("ERROR: OLED initialization failed");
     while (true) {
-      delay(10);
+      delay(1000);
     }
   }
+  Serial.println("STEP 5: OLED initialized");
 
+  delay(100);
+
+  Serial.println("STEP 6: Starting MPU6050");
   mpuFound = mpu.begin(MPU6050_ADDRESS, &Wire);
+
   if (mpuFound) {
+    Serial.println("STEP 7: MPU6050 initialized");
     mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
     mpu.setGyroRange(MPU6050_RANGE_500_DEG);
     mpu.setFilterBandwidth(MPU6050_BAND_21_HZ);
   } else {
-    Serial.println("MPU6050 not found. The menu will not move until it is connected.");
+    Serial.println("WARNING: MPU6050 not found");
   }
 
+  Serial.println("STEP 8: Starting DHT");
   if (USE_DHT11) {
     dht.begin();
-    dhtFound = true;
   }
+
+  Serial.println("STEP 9: Drawing Starbie screen");
+  drawCurrentView();
+
+  Serial.println("STEP 10: Setup complete");
+}
+
 
   drawCurrentView();
 }
